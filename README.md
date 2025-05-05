@@ -76,11 +76,17 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/home-assistant/core
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: Production and test files
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: uivos de testes, já que, colocando que em 2020 a empresa possuía em torno de 3000 arquivos de produção e 1000 arquivos de teste, o que mostra que os arquivos de teste representam ¼ do total de arquivos, conclui-se que ela buscou aumentar o número de arquivos de teste sobre o número de arquivos de produção. Isso se evidencia quando verificamos que em 2025 ela possui em torno de 9000 arquivos de produção e 4500 arquivos de teste, o que demonstra que os arquivos de teste representam ⅓ do total de arquivos. 
+Assim, acredito que a empresa tem buscado seguir boas práticas de engenharia de software, já que, não só manteve a criação de arquivos de teste ao longo dos anos, como também aumentou o número significativamente de arquivos de teste em 2025 quando comparado com 2025.
+Por fim, vale ressaltar que ao verificar os commits feitos é fácil encontrar commits que envolvem arquivos de produção e teste, como os apresentados abaixo, o que comprova o compromisso dos desenvolvedores com os testes.
+- https://github.com/home-assistant/core/commit/fb94f8ea189cb18e2b11c5166687e2b9ebb4bd60#diff-71bc54802b4d50c9b781d3102332098ddc5ca47e6da4398664ecb3fa5e661433
+- https://github.com/home-assistant/core/commit/9732b8c0dd3b6ff85ad2a953eef1884dd0be5393
+- https://github.com/home-assistant/core/commit/923300f4e7733a18100965407de1d7e96bf46381
+
 
 
 
